@@ -12,6 +12,7 @@ classifiers = [
     "Operating System :: OS Independent",
 ]
 license = "MIT"
+license-file = "LICENSE"
 
 [project.urls]
 Homepage = "https://github.com/codingelephants-gpt/pyElephant"
